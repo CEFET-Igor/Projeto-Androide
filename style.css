@@ -143,10 +143,10 @@ main > article > aside > ul > li > abbr{
 footer{
     background-color: black;
     color: white;
-    text-align: center;
+    text-align: justify;
     margin: 10px 0px 0px 0px;
-    padding-bottom: 10px;
+    padding: 5px 10px;
 }
 footer > p {
-    padding-top: 10px;
+    padding: 5px 10px;
 }
